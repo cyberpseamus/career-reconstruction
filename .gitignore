@@ -1,0 +1,25 @@
+# Career reconstruction output
+career-reports/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Environment and secrets
+.env
+.env.*
+*.local
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# IDEs
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
